@@ -17,7 +17,7 @@ Problem: Movie tickets are priced based on age: $12 for adults (18 and over), $8
 <details>
 <summary>3. Grade Calculator
 </summary>
-Problem: Assign a letter grade based on a student's score: A (90-100), B (80-89), C (70-79), D (60-69), F (below 60).
+Problem: Assign a letter grade based on a student's score: A (90-100), B (80-89), C (70-79), D (60-69), E (below 60).
 
 </details>
 
