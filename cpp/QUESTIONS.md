@@ -50,23 +50,23 @@
 
 📦 4. Arrays
 
-Input N elements in an array and print them.
+1. Input N elements in an array and print them.
 
-Find the maximum and minimum element in an array.
+2. Find the maximum and minimum element in an array.
 
-Find the sum and average of elements in an array.
+3. Find the sum and average of elements in an array.
 
-Count even and odd numbers in an array.
+4. Count even and odd numbers in an array.
 
-Reverse an array.
+5. Reverse an array.
 
-Search an element in an array (linear search).
+6. Search an element in an array (linear search).
 
-Sort an array (bubble sort or selection sort).
+7. Sort an array (bubble sort or selection sort).
 
-Merge two arrays into one.
+8. Merge two arrays into one.
 
-Find the second largest element in an array.
+9. Find the second largest element in an array.
 
 🔡 5. Strings
 
