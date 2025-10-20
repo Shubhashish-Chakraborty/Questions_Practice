@@ -70,19 +70,19 @@
 
 🔡 5. Strings
 
-Input a string and print its length manually.
+1. Input a string and print its length manually.
 
-Count vowels, consonants, digits, and spaces in a string.
+2. Count vowels, consonants, digits, and spaces in a string.
 
-Reverse a string without using built-in functions.
+3. Reverse a string without using built-in functions.
 
-Check whether a string is a palindrome.
+4. Check whether a string is a palindrome.
 
-Convert a string to uppercase and lowercase manually.
+5. Convert a string to uppercase and lowercase manually.
 
-Concatenate two strings without using strcat().
+6. Concatenate two strings without using strcat().
 
-Count the frequency of each character in a string.
+7. Count the frequency of each character in a string.
 
 🧮 6. Functions
 
