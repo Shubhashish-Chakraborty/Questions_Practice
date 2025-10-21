@@ -86,17 +86,17 @@
 
 🧮 6. Functions
 
-Write a function to calculate factorial of a number.
+1. Write a function to calculate factorial of a number.
 
-Write a function to check if a number is prime.
+2. Write a function to check if a number is prime.
 
-Write a function to find power of a number (base^exponent).
+3. Write a function to find power of a number (base^exponent).
 
-Write a function that swaps two numbers (using call by reference).
+4. Write a function that swaps two numbers (using call by reference).
 
-Write a function to find GCD of two numbers.
+5. Write a function to find GCD of two numbers.
 
-Write a function to reverse a string.
+6. Write a function to reverse a string.
 
 🧱 7. Pointers
 
