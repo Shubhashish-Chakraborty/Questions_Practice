@@ -3,6 +3,8 @@
 using namespace std;
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     string str;
     cout << "Enter Your String: ";
     getline(cin,str);
