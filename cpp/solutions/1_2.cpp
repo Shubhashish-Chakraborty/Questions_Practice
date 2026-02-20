@@ -21,6 +21,8 @@ int calculate(int num1, int num2, string operation) {
 }
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
     string choice;
     int n1, n2;
     int answer;
