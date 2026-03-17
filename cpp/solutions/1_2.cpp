@@ -2,6 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// doing for the sake of streak, understand its important right, i need to do it today
 int calculate(int num1, int num2, string operation) {
     if (operation == "+") {
         return num1 + num2;
