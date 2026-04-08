@@ -11,4 +11,4 @@ def main(s):
     
     return reversed_string
 
-print(main("illuminati"))
+print(main("radar"))
